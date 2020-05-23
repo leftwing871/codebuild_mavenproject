@@ -1,0 +1,2 @@
+codebuild-study01-input-bucket
+codebuild-study01-output-bucket
